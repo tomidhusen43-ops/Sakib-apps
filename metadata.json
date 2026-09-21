@@ -1,0 +1,7 @@
+{
+  "name": "Service Management",
+  "description": "সার্ভিস ম্যানেজমেন্ট ড্যাশবোর্ড - গ্রাহক সেবা ও অর্ডার ব্যবস্থাপনা অ্যাপ (Service & Order Management Dashboard)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

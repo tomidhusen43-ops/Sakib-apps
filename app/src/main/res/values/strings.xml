@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Service Management</string>
+    <string name="dashboard_title">সার্ভিস ম্যানেজমেন্ট ড্যাশবোর্ড</string>
+    <string name="hint_customer_name">কাস্টমারের নাম</string>
+    <string name="hint_phone">মোবাইল নম্বর</string>
+    <string name="hint_passport">পাসপোর্ট নম্বর</string>
+    <string name="hint_amount">টাকার পরিমাণ (৳ / SAR)</string>
+    <string name="btn_save">সেভ করুন</string>
+    <string name="service_type_label">সার্ভিস ক্যাটাগরি</string>
+    <string name="status_label">স্ট্যাটাস</string>
+
+    <string-array name="service_categories">
+        <item>ফটোকপি</item>
+        <item>অনলাইনের কাজ</item>
+        <item>যাওযায়াত</item>
+        <item>টিকেট বুকিং</item>
+        <item>ইন্স্যুরেন্স</item>
+        <item>টি ইউ ভি কার্ড</item>
+    </string-array>
+
+    <string-array name="service_statuses">
+        <item>Pending</item>
+        <item>Processing</item>
+        <item>Completed</item>
+    </string-array>
+</resources>
+
